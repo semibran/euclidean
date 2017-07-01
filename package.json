@@ -1,0 +1,10 @@
+{
+ "name": "euclidean",
+ "version": "0.0.0",
+ "description": "Calculate the Euclidean distance between two points",
+ "keywords": ["euclidean", "distance", "math", "geometry"],
+ "files": ["index.js"],
+ "license": "MIT",
+ "author": "Brandon Semilla (https://github.com/semibran)",
+ "repository": "semibran/euclidean"
+}
